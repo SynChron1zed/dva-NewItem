@@ -1,0 +1,87 @@
+{
+
+  "M":[
+    {"date":"09-01","date1":"周四","money":"26,200","lweek":"+5%","kedan":863,"kejia":35},
+    {"date":"09-02","date1":"周五","money":"30,200","lweek":"+2%","kedan":813,"kejia":25},
+    {"date":"09-03","date1":"周六","money":"74,300","lweek":"-1%","kedan":543,"kejia":41},
+    {"date":"09-04","date1":"周日","money":"81,200","lweek":"-2%","kedan":343,"kejia":23},
+    {"date":"09-05","date1":"周一","money":"30,100","lweek":"-5%","kedan":453,"kejia":53},
+    {"date":"09-06","date1":"周二","money":"26,200","lweek":"+2%","kedan":233,"kejia":43},
+    {"date":"09-07","date1":"周三","money":"27,400","lweek":"+1%","kedan":823,"kejia":54},
+    {"date":"09-08","date1":"周四","money":"29,200","lweek":"+1%","kedan":163,"kejia":32},
+    {"date":"09-09","date1":"周五","money":"30,000","lweek":"+2%","kedan":363,"kejia":56},
+    {"date":"09-10","date1":"周六","money":"69,200","lweek":"+1%","kedan":163,"kejia":90},
+    {"date":"09-11","date1":"周日","money":"78,200","lweek":"-2%","kedan":203,"kejia":43},
+    {"date":"09-12","date1":"周一","money":"40,200","lweek":"+3%","kedan":123,"kejia":32},
+    {"date":"09-13","date1":"周二","money":"20,200","lweek":"+2%","kedan":563,"kejia":54},
+    {"date":"09-14","date1":"周三","money":"30,200","lweek":"+3%","kedan":963,"kejia":64},
+    {"date":"09-15","date1":"周四","money":"32,200","lweek":"-1%","kedan":263,"kejia":75},
+    {"date":"09-16","date1":"周五","money":"33,200","lweek":"-3%","kedan":163,"kejia":34},
+    {"date":"09-17","date1":"周六","money":"70,200","lweek":"+4%","kedan":263,"kejia":67},
+    {"date":"09-18","date1":"周日","money":"90,200","lweek":"+5%","kedan":163,"kejia":54},
+    {"date":"09-19","date1":"周一","money":"41,200","lweek":"-1%","kedan":743,"kejia":86},
+    {"date":"09-20","date1":"周二","money":"34,200","lweek":"+2%","kedan":733,"kejia":54},
+    {"date":"09-21","date1":"周三","money":"36,200","lweek":"+1%","kedan":513,"kejia":32},
+    {"date":"09-22","date1":"周四","money":"32,200","lweek":"+1%","kedan":463,"kejia":67},
+    {"date":"09-23","date1":"周五","money":"50,200","lweek":"+1%","kedan":503,"kejia":35},
+    {"date":"09-24","date1":"周六","money":"90,200","lweek":"-2%","kedan":423,"kejia":23},
+    {"date":"09-25","date1":"周日","money":"80,200","lweek":"-4%","kedan":103,"kejia":65},
+    {"date":"09-26","date1":"周一","money":"60,200","lweek":"-1%","kedan":163,"kejia":75},
+    {"date":"09-27","date1":"周二","money":"20,200","lweek":"+1%","kedan":433,"kejia":34},
+    {"date":"09-28","date1":"周三","money":"30,200","lweek":"+1%","kedan":853,"kejia":25},
+    {"date":"09-29","date1":"周四","money":"42,200","lweek":"+1%","kedan":463,"kejia":65},
+    {"date":"09-30","date1":"周五","money":"50,200","lweek":"+2%","kedan":963,"kejia":55}
+  ],
+  "LM":[
+
+    {"date":"08-01","date1":"周一","money":"26,200","lweek":"+5%","kedan":863,"kejia":35},
+    {"date":"08-02","date1":"周二","money":"30,200","lweek":"+2%","kedan":813,"kejia":25},
+    {"date":"08-03","date1":"周三","money":"74,300","lweek":"-1%","kedan":543,"kejia":41},
+    {"date":"08-04","date1":"周四","money":"81,200","lweek":"-2%","kedan":343,"kejia":23},
+    {"date":"08-05","date1":"周五","money":"30,100","lweek":"-5%","kedan":453,"kejia":53},
+    {"date":"08-06","date1":"周六","money":"26,200","lweek":"+2%","kedan":233,"kejia":43},
+    {"date":"08-07","date1":"周日","money":"27,400","lweek":"+1%","kedan":823,"kejia":54},
+    {"date":"08-08","date1":"周一","money":"29,200","lweek":"+1%","kedan":163,"kejia":32},
+    {"date":"08-09","date1":"周二","money":"30,000","lweek":"+2%","kedan":363,"kejia":56},
+    {"date":"08-10","date1":"周三","money":"69,200","lweek":"+1%","kedan":163,"kejia":90},
+    {"date":"08-11","date1":"周四","money":"78,200","lweek":"-2%","kedan":203,"kejia":43},
+    {"date":"08-12","date1":"周五","money":"40,200","lweek":"+3%","kedan":103,"kejia":32},
+    {"date":"08-13","date1":"周六","money":"20,200","lweek":"+2%","kedan":563,"kejia":54},
+    {"date":"08-14","date1":"周日","money":"30,200","lweek":"+3%","kedan":963,"kejia":64},
+    {"date":"08-15","date1":"周一","money":"32,200","lweek":"-1%","kedan":213,"kejia":75},
+    {"date":"08-16","date1":"周二","money":"33,200","lweek":"-3%","kedan":123,"kejia":34},
+    {"date":"08-17","date1":"周三","money":"70,200","lweek":"+4%","kedan":263,"kejia":67},
+    {"date":"08-18","date1":"周四","money":"90,200","lweek":"+5%","kedan":163,"kejia":54},
+    {"date":"08-19","date1":"周五","money":"41,200","lweek":"-1%","kedan":743,"kejia":86},
+    {"date":"08-20","date1":"周六","money":"34,200","lweek":"+2%","kedan":733,"kejia":54},
+    {"date":"08-21","date1":"周日","money":"36,200","lweek":"+1%","kedan":513,"kejia":32},
+    {"date":"08-22","date1":"周一","money":"32,200","lweek":"+1%","kedan":463,"kejia":67},
+    {"date":"08-23","date1":"周二","money":"50,200","lweek":"+1%","kedan":503,"kejia":35},
+    {"date":"08-24","date1":"周三","money":"90,200","lweek":"-2%","kedan":423,"kejia":23},
+    {"date":"08-25","date1":"周四","money":"80,200","lweek":"-4%","kedan":103,"kejia":65},
+    {"date":"08-26","date1":"周五","money":"60,200","lweek":"-1%","kedan":103,"kejia":75},
+    {"date":"08-27","date1":"周六","money":"20,200","lweek":"+1%","kedan":433,"kejia":34},
+    {"date":"08-28","date1":"周日","money":"30,200","lweek":"+1%","kedan":853,"kejia":25},
+    {"date":"08-29","date1":"周一","money":"42,200","lweek":"+1%","kedan":463,"kejia":65},
+    {"date":"08-30","date1":"周二","money":"50,200","lweek":"+2%","kedan":963,"kejia":55},
+    {"date":"08-31","date1":"周三","money":"90,200","lweek":"-2%","kedan":423,"kejia":23}
+  ],
+  "LW":[
+
+    {"date":"09-05","date1":"周一","money":"30,100","lweek":"-5%","kedan":453,"kejia":53},
+    {"date":"09-06","date1":"周二","money":"26,200","lweek":"+2%","kedan":233,"kejia":43},
+    {"date":"09-07","date1":"周三","money":"27,400","lweek":"+1%","kedan":823,"kejia":54},
+    {"date":"09-08","date1":"周四","money":"29,200","lweek":"+1%","kedan":103,"kejia":32},
+    {"date":"09-09","date1":"周五","money":"30,000","lweek":"+2%","kedan":263,"kejia":56},
+    {"date":"09-10","date1":"周六","money":"69,200","lweek":"+1%","kedan":123,"kejia":90},
+    {"date":"09-11","date1":"周日","money":"78,200","lweek":"-2%","kedan":203,"kejia":43}
+  ],
+  "W":[
+
+    {"date":"09-12","date1":"周一","money":"40,200","lweek":"+3%","kedan":103,"kejia":32},
+    {"date":"09-13","date1":"周二","money":"20,200","lweek":"+2%","kedan":563,"kejia":54}
+  ]
+
+
+
+}

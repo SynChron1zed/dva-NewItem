@@ -1,0 +1,191 @@
+{
+
+ "L1":[
+   {"date":"06-20","money":"26,500","lweek":"-3","kedan":940,"Kweek":"+1"},
+   {"date":"06-27","money":"29,300","lweek":"+1","kedan":960,"Kweek":"+1"},
+   {"date":"07-04","money":"30,500","lweek":"+2","kedan":740,"Kweek":"+2"},
+   {"date":"07-11","money":"28,500","lweek":"-1","kedan":520,"Kweek":"-3"},
+   {"date":"07-18","money":"27,520","lweek":"+2","kedan":480,"Kweek":"+2"},
+   {"date":"07-25","money":"31,200","lweek":"-3","kedan":880,"Kweek":"+1"},
+   {"date":"08-01","money":"28,900","lweek":"-2","kedan":340,"Kweek":"+3"},
+   {"date":"08-08","money":"30,110","lweek":"+1","kedan":930,"Kweek":"+1"},
+   {"date":"08-15","money":"26,500","lweek":"-3","kedan":420,"Kweek":"-1"},
+   {"date":"08-22","money":"29,500","lweek":"-2","kedan":760,"Kweek":"+2"},
+   {"date":"08-29","money":"28,500","lweek":"+1","kedan":580,"Kweek":"+1"}
+ ] ,
+  "L2":[
+    {"date":"06-21","money":"26,500","lweek":"-3","kedan":940,"Kweek":"+1"},
+    {"date":"06-28","money":"22,300","lweek":"+2","kedan":960,"Kweek":"+2"},
+    {"date":"07-05","money":"33,500","lweek":"+1","kedan":720,"Kweek":"+1"},
+    {"date":"07-12","money":"21,500","lweek":"-3","kedan":540,"Kweek":"-2"},
+    {"date":"07-19","money":"28,520","lweek":"+4","kedan":580,"Kweek":"+3"},
+    {"date":"07-26","money":"30,200","lweek":"-1","kedan":780,"Kweek":"+1"},
+    {"date":"08-02","money":"22,900","lweek":"-3","kedan":320,"Kweek":"+2"},
+    {"date":"08-09","money":"30,110","lweek":"+1","kedan":630,"Kweek":"+3"},
+    {"date":"08-16","money":"23,500","lweek":"-4","kedan":490,"Kweek":"-2"},
+    {"date":"08-23","money":"22,500","lweek":"-1","kedan":660,"Kweek":"+1"},
+    {"date":"08-30","money":"38,500","lweek":"+1","kedan":580,"Kweek":"+4"}
+  ] ,
+  "L3":[
+    {"date":"06-22","money":"22,500","lweek":"-1","kedan":940,"Kweek":"+1"},
+    {"date":"06-29","money":"32,300","lweek":"+3","kedan":660,"Kweek":"+2"},
+    {"date":"07-06","money":"30,500","lweek":"+2","kedan":430,"Kweek":"+3"},
+    {"date":"07-13","money":"28,500","lweek":"-3","kedan":640,"Kweek":"-2"},
+    {"date":"07-20","money":"22,520","lweek":"+4","kedan":900,"Kweek":"+2"},
+    {"date":"07-27","money":"32,200","lweek":"-4","kedan":500,"Kweek":"+2"},
+    {"date":"08-03","money":"32,900","lweek":"-3","kedan":770,"Kweek":"+2"},
+    {"date":"08-10","money":"28,110","lweek":"+2","kedan":690,"Kweek":"+3"},
+    {"date":"08-17","money":"29,500","lweek":"-2","kedan":790,"Kweek":"-1"},
+    {"date":"08-24","money":"28,500","lweek":"-1","kedan":760,"Kweek":"+2"},
+    {"date":"08-31","money":"30,500","lweek":"+3","kedan":980,"Kweek":"+3"}
+  ] ,
+  "L4":[
+  {"date":"06-23","money":"32,500","lweek":"-1","kedan":640,"Kweek":"+3"},
+  {"date":"06-30","money":"24,300","lweek":"+2","kedan":860,"Kweek":"+1"},
+  {"date":"07-07","money":"30,500","lweek":"+3","kedan":1030,"Kweek":"+3"},
+  {"date":"07-14","money":"48,500","lweek":"-1","kedan":840,"Kweek":"+2"},
+  {"date":"07-21","money":"32,520","lweek":"+4","kedan":990,"Kweek":"-2"},
+  {"date":"07-28","money":"32,200","lweek":"-4","kedan":760,"Kweek":"+2"},
+  {"date":"08-04","money":"32,900","lweek":"-1","kedan":670,"Kweek":"+2"},
+  {"date":"08-11","money":"29,110","lweek":"+3","kedan":690,"Kweek":"-3"},
+  {"date":"08-18","money":"32,500","lweek":"-2","kedan":890,"Kweek":"-1"},
+  {"date":"08-25","money":"34,500","lweek":"-5","kedan":520,"Kweek":"-2"},
+  {"date":"09-01","money":"25,500","lweek":"+3","kedan":980,"Kweek":"+3"}
+] ,
+  "L5":[
+    {"date":"06-24","money":"32,500","lweek":"-1","kedan":1040,"Kweek":"+3"},
+    {"date":"07-01","money":"24,300","lweek":"-2","kedan":860,"Kweek":"+2"},
+    {"date":"07-08","money":"30,500","lweek":"-3","kedan":930,"Kweek":"+1"},
+    {"date":"07-15","money":"44,500","lweek":"+1","kedan":840,"Kweek":"+2"},
+    {"date":"07-22","money":"34,520","lweek":"+4","kedan":1090,"Kweek":"-1"},
+    {"date":"07-29","money":"29,200","lweek":"-4","kedan":760,"Kweek":"-2"},
+    {"date":"08-05","money":"32,900","lweek":"+2","kedan":470,"Kweek":"+2"},
+    {"date":"08-12","money":"39,110","lweek":"+4","kedan":690,"Kweek":"-2"},
+    {"date":"08-19","money":"22,500","lweek":"-1","kedan":800,"Kweek":"+1"},
+    {"date":"08-26","money":"34,500","lweek":"-2","kedan":1220,"Kweek":"-2"},
+    {"date":"09-02","money":"29,500","lweek":"+3","kedan":980,"Kweek":"-3"}
+  ] ,
+  "L6":[
+    {"date":"06-25","money":"32,500","lweek":"-1","kedan":840,"Kweek":"-2"},
+    {"date":"07-02","money":"24,300","lweek":"+2","kedan":1060,"Kweek":"+4"},
+    {"date":"07-09","money":"20,500","lweek":"+3","kedan":630,"Kweek":"-1"},
+    {"date":"07-16","money":"34,500","lweek":"-1","kedan":940,"Kweek":"+2"},
+    {"date":"07-23","money":"44,520","lweek":"-4","kedan":790,"Kweek":"-1"},
+    {"date":"07-30","money":"39,200","lweek":"+2","kedan":1060,"Kweek":"+2"},
+    {"date":"08-06","money":"42,900","lweek":"+2","kedan":1070,"Kweek":"-2"},
+    {"date":"08-13","money":"39,110","lweek":"-2","kedan":990,"Kweek":"-3"},
+    {"date":"08-20","money":"31,500","lweek":"+1","kedan":800,"Kweek":"+2"},
+    {"date":"08-27","money":"30,500","lweek":"-2","kedan":820,"Kweek":"+2"},
+    {"date":"09-03","money":"29,500","lweek":"-3","kedan":780,"Kweek":"-3"}
+  ] ,
+  "L7":[
+    {"date":"06-26","money":"22,500","lweek":"-3","kedan":640,"Kweek":"-1"},
+    {"date":"07-03","money":"34,300","lweek":"+2","kedan":1060,"Kweek":"+1"},
+    {"date":"07-010","money":"28,500","lweek":"_3","kedan":1030,"Kweek":"+1"},
+    {"date":"07-17","money":"24,500","lweek":"-2","kedan":640,"Kweek":"-2"},
+    {"date":"07-24","money":"32,520","lweek":"+2","kedan":790,"Kweek":"-2"},
+    {"date":"07-31","money":"31,200","lweek":"+2","kedan":960,"Kweek":"+2"},
+    {"date":"08-07","money":"39,900","lweek":"-1","kedan":1170,"Kweek":"-3"},
+    {"date":"08-14","money":"30,110","lweek":"-3","kedan":890,"Kweek":"+3"},
+    {"date":"08-21","money":"37,500","lweek":"-1","kedan":940,"Kweek":"+1"},
+    {"date":"08-28","money":"40,500","lweek":"+2","kedan":1020,"Kweek":"+2"},
+    {"date":"09-04","money":"29,500","lweek":"-2","kedan":980,"Kweek":"-2"}
+  ] ,
+
+  "J1":[
+    {"date":"06-20","money":"26,500","lweek":"-3","kedan":40,"Kweek":"-1"},
+    {"date":"06-27","money":"29,300","lweek":"+1","kedan":63,"Kweek":"+2"},
+    {"date":"07-04","money":"30,500","lweek":"+2","kedan":43,"Kweek":"-3"},
+    {"date":"07-11","money":"28,500","lweek":"-1","kedan":25,"Kweek":"+1"},
+    {"date":"07-18","money":"27,520","lweek":"+2","kedan":88,"Kweek":"-2"},
+    {"date":"07-25","money":"31,200","lweek":"-3","kedan":88,"Kweek":"-1"},
+    {"date":"08-01","money":"28,900","lweek":"-2","kedan":47,"Kweek":"-3"},
+    {"date":"08-08","money":"30,110","lweek":"+1","kedan":36,"Kweek":"+2"},
+    {"date":"08-15","money":"26,500","lweek":"-3","kedan":22,"Kweek":"+1"},
+    {"date":"08-22","money":"29,500","lweek":"-2","kedan":63,"Kweek":"-2"},
+    {"date":"08-29","money":"28,500","lweek":"+1","kedan":82,"Kweek":"+1"}
+  ] ,
+  "J2":[
+    {"date":"06-21","money":"26,500","lweek":"-3","kedan":41,"Kweek":"-1"},
+    {"date":"06-28","money":"22,300","lweek":"+2","kedan":62,"Kweek":"-3"},
+    {"date":"07-05","money":"33,500","lweek":"+1","kedan":23,"Kweek":"+2"},
+    {"date":"07-12","money":"21,500","lweek":"-3","kedan":43,"Kweek":"-1"},
+    {"date":"07-19","money":"28,520","lweek":"+4","kedan":82,"Kweek":"-3"},
+    {"date":"07-26","money":"30,200","lweek":"-1","kedan":87,"Kweek":"-1"},
+    {"date":"08-02","money":"22,900","lweek":"-3","kedan":25,"Kweek":"+2"},
+    {"date":"08-09","money":"30,110","lweek":"+1","kedan":33,"Kweek":"+1"},
+    {"date":"08-16","money":"23,500","lweek":"-4","kedan":92,"Kweek":"+1"},
+    {"date":"08-23","money":"22,500","lweek":"-1","kedan":60,"Kweek":"+1"},
+    {"date":"08-30","money":"38,500","lweek":"+1","kedan":81,"Kweek":"-2"}
+  ] ,
+  "J3":[
+    {"date":"06-22","money":"22,500","lweek":"-1","kedan":40,"Kweek":"-1"},
+    {"date":"06-29","money":"32,300","lweek":"+3","kedan":61,"Kweek":"-2"},
+    {"date":"07-06","money":"30,500","lweek":"+2","kedan":32,"Kweek":"+4"},
+    {"date":"07-13","money":"28,500","lweek":"-3","kedan":46,"Kweek":"-2"},
+    {"date":"07-20","money":"22,520","lweek":"+4","kedan":57,"Kweek":"-2"},
+    {"date":"07-27","money":"32,200","lweek":"-4","kedan":36,"Kweek":"-1"},
+    {"date":"08-03","money":"32,900","lweek":"-3","kedan":73,"Kweek":"+1"},
+    {"date":"08-10","money":"28,110","lweek":"+2","kedan":92,"Kweek":"+3"},
+    {"date":"08-17","money":"29,500","lweek":"-2","kedan":91,"Kweek":"-2"},
+    {"date":"08-24","money":"28,500","lweek":"-1","kedan":64,"Kweek":"-2"},
+    {"date":"08-31","money":"30,500","lweek":"+3","kedan":83,"Kweek":"+2"}
+  ] ,
+  "J4":[
+    {"date":"06-23","money":"32,500","lweek":"-1","kedan":40,"Kweek":"+1"},
+    {"date":"06-30","money":"24,300","lweek":"+2","kedan":63,"Kweek":"+2"},
+    {"date":"07-07","money":"30,500","lweek":"+3","kedan":130,"Kweek":"+2"},
+    {"date":"07-14","money":"48,500","lweek":"-1","kedan":46,"Kweek":"-2"},
+    {"date":"07-21","money":"32,520","lweek":"+4","kedan":95,"Kweek":"+2"},
+    {"date":"07-28","money":"32,200","lweek":"-4","kedan":60,"Kweek":"+1"},
+    {"date":"08-04","money":"32,900","lweek":"-1","kedan":77,"Kweek":"-3"},
+    {"date":"08-11","money":"29,110","lweek":"+3","kedan":96,"Kweek":"+3"},
+    {"date":"08-18","money":"32,500","lweek":"-2","kedan":95,"Kweek":"+1"},
+    {"date":"08-25","money":"34,500","lweek":"-5","kedan":22,"Kweek":"-2"},
+    {"date":"09-01","money":"25,500","lweek":"+3","kedan":83,"Kweek":"+3"}
+  ] ,
+  "J5":[
+    {"date":"06-24","money":"32,500","lweek":"-1","kedan":140,"Kweek":"+3"},
+    {"date":"07-01","money":"24,300","lweek":"-2","kedan":61,"Kweek":"+2"},
+    {"date":"07-08","money":"30,500","lweek":"-3","kedan":32,"Kweek":"+1"},
+    {"date":"07-15","money":"44,500","lweek":"+1","kedan":45,"Kweek":"+3"},
+    {"date":"07-22","money":"34,520","lweek":"+4","kedan":100,"Kweek":"+1"},
+    {"date":"07-29","money":"29,200","lweek":"-4","kedan":62,"Kweek":"-2"},
+    {"date":"08-05","money":"32,900","lweek":"+2","kedan":76,"Kweek":"+2"},
+    {"date":"08-12","money":"39,110","lweek":"+4","kedan":93,"Kweek":"-1"},
+    {"date":"08-19","money":"22,500","lweek":"-1","kedan":100,"Kweek":"+2"},
+    {"date":"08-26","money":"34,500","lweek":"-2","kedan":120,"Kweek":"-1"},
+    {"date":"09-02","money":"29,500","lweek":"+3","kedan":83,"Kweek":"-3"}
+  ] ,
+  "J6":[
+    {"date":"06-25","money":"32,500","lweek":"-1","kedan":140,"Kweek":"-2"},
+    {"date":"07-02","money":"24,300","lweek":"+2","kedan":161,"Kweek":"+4"},
+    {"date":"07-09","money":"20,500","lweek":"+3","kedan":132,"Kweek":"-1"},
+    {"date":"07-16","money":"34,500","lweek":"-1","kedan":42,"Kweek":"+2"},
+    {"date":"07-23","money":"44,520","lweek":"-4","kedan":90,"Kweek":"-1"},
+    {"date":"07-30","money":"39,200","lweek":"+2","kedan":160,"Kweek":"+2"},
+    {"date":"08-06","money":"42,900","lweek":"+2","kedan":170,"Kweek":"-2"},
+    {"date":"08-13","money":"39,110","lweek":"-2","kedan":92,"Kweek":"-3"},
+    {"date":"08-20","money":"31,500","lweek":"+1","kedan":45,"Kweek":"+2"},
+    {"date":"08-27","money":"30,500","lweek":"-2","kedan":22,"Kweek":"+2"},
+    {"date":"09-03","money":"29,500","lweek":"-3","kedan":84,"Kweek":"-3"}
+  ] ,
+  "J7":[
+    {"date":"06-26","money":"22,500","lweek":"-3","kedan":40,"Kweek":"-1"},
+    {"date":"07-03","money":"34,300","lweek":"+2","kedan":100,"Kweek":"+1"},
+    {"date":"07-010","money":"28,500","lweek":"_3","kedan":130,"Kweek":"+1"},
+    {"date":"07-17","money":"24,500","lweek":"-2","kedan":41,"Kweek":"-3"},
+    {"date":"07-24","money":"32,520","lweek":"+2","kedan":72,"Kweek":"-2"},
+    {"date":"07-31","money":"31,200","lweek":"+2","kedan":60,"Kweek":"-2"},
+    {"date":"08-07","money":"39,900","lweek":"-1","kedan":170,"Kweek":"-3"},
+    {"date":"08-14","money":"30,110","lweek":"-3","kedan":80,"Kweek":"+1"},
+    {"date":"08-21","money":"37,500","lweek":"-1","kedan":44,"Kweek":"+2"},
+    {"date":"08-28","money":"40,500","lweek":"+2","kedan":120,"Kweek":"-2"},
+    {"date":"09-04","money":"29,500","lweek":"-2","kedan":84,"Kweek":"+1"}
+  ]
+
+
+
+
+
+}

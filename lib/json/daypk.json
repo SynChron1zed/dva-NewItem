@@ -1,0 +1,12 @@
+{
+
+  "data":[
+  {"top":"1","newdate":"06.21","xiaoshou":"28,500","date":"-2","number":"28","pkdate":"-2"},
+  {"top":"2","newdate":"06.28","xiaoshou":"30,039","date":"+5","number":"30","pkdate":"+1"},
+  {"top":"3","newdate":"07.05","xiaoshou":"31,296","date":"+4","number":"29","pkdate":"-1"},
+  {"top":"4","newdate":"07.12","xiaoshou":"30,210","date":"-3","number":"32","pkdate":"+2"},
+  {"top":"5","newdate":"07.19","xiaoshou":"28,623","date":"-5","number":"31","pkdate":"+1"}
+
+
+]
+}
